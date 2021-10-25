@@ -2,4 +2,4 @@
 
 Work in progress. News coming soon.
 
-contact@dvision.cl
+Para mayor información contactar a tita@dvision.cl
