@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 title: DVision Media Agency
 description: Digital Media Agency, Social Media Agency, Internet Marketing
-google_analytics: 290970206
+google_analytics: UA-210990144-1
 plugins:
   - jekyll-feed
   - jekyll-sitemap
